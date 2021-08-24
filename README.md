@@ -1,12 +1,9 @@
 ### CN Ryan profile
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryannhasacat&show_icons=true&count_private=true&theme=radical&bg_color=#FF7F50,#FF4500,#BA55D3)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryannhasacat&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ryannhasacat/Ryannhasacat.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryannhasacat&show_icons=true&count_private=true&theme=radical&bg_color=#FF7F50,#FF4500,#BA55D3" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Ryannhasacat/Ryannhasacat.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryannhasacat&layout=compact&theme=radical" />
 </a>
 
