@@ -3,6 +3,7 @@
 <a href="https://github.com/Ryannhasacat/Ryannhasacat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryannhasacat&show_icons=true&count_private=true&theme=radical&bg_color=#FF7F50,#FF4500,#BA55D3" />
 </a>
+<p></p>
 </br>
 <a href="https://github.com/Ryannhasacat/Ryannhasacat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryannhasacat&layout=compact&theme=radical" />
